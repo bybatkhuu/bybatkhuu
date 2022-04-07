@@ -14,10 +14,10 @@
 ### 🔗 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/bybatkhuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bybatkhuu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7165786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7165786" height="30" width="40" /></a>
-<a href="https://dev.to/bybatkhuu" target="blank"><img align="center" src="https://camo.githubusercontent.com/9b13cf00d4d07dcfee53663f62019ef576b7224822fe81dd4be7f94885db5496/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6465762d646f742d746f2e737667" alt="bybatkhuu" height="30" width="40" /></a>
-<a href="https://medium.com/@bybatkhuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bybatkhuu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bybatkhuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bybatkhuu" height="20" width="30" /></a>
+<a href="https://stackoverflow.com/users/7165786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7165786" height="20" width="30" /></a>
+<a href="https://dev.to/bybatkhuu" target="blank"><img align="center" src="https://camo.githubusercontent.com/9b13cf00d4d07dcfee53663f62019ef576b7224822fe81dd4be7f94885db5496/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6465762d646f742d746f2e737667" alt="bybatkhuu" height="20" width="30" /></a>
+<a href="https://medium.com/@bybatkhuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bybatkhuu" height="20" width="30" /></a>
 </p>
 
 ### 📚 My latest blog posts
