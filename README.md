@@ -1,14 +1,40 @@
-### Hi there 👋
+# Hi there, I'm Batkhuu! 👋
+
+## I'm a Full-stack MLOps Engineer (ML/DL, DevOps, Web Developer)
+
+- 🔭 I'm currently working on AI platform and service for Anomaly Detection and Time Series Forecasting/Clustering
+- 🌱 I'm currently learning Kubernetes, Kubeflow, Terraform, Multi-GPU computation, NVIDIA TensorRT/Triton, Go and other tools for MLOps
+- 💬 Ask me about Docker/Container, Transfer Learning/LSTM/CNN, Javascript/Python/Java, Express/Flask/FastAPI, my work experience, my education, my skills
+- 👨‍💻 Read more about my projects at [this page](https://bybatkhuu.notion.site/Portfolio-c95b5cb82605426499e9f251218745eb)
+- 📝 I regularly write articles on [https://dev.to/bybatkhuu](https://dev.to/bybatkhuu)
+- 📫 How to reach me: [batkhuu10@gmail.com](mailto:batkhuu10@gmail.com)
+- 2022 Goals: Contribute to Open Source projects
+- ⚡ Fun fact: I love to code and explore/experiment with new technologies.
+
+## 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<!-- ## Connect with me -->
+
+## GitHub Stats
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bybatkhuu&show_icons=true&theme=cobalt" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bybatkhuu&layout=compact" />
+
+<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
+
 
 <!--
-**bybatkhuu/bybatkhuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
