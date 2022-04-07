@@ -11,7 +11,7 @@
 - 🥅 2022 Goals: Contribute to open-source projects
 - ⚡ Fun fact: I love to code and explore/experiment with new technologies.
 
-## 🔗 Connect with me
+### 🔗 Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/bybatkhuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bybatkhuu" height="30" width="40" /></a>
@@ -20,7 +20,7 @@
 <a href="https://medium.com/@bybatkhuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bybatkhuu" height="30" width="40" /></a>
 </p>
 
-## 📚 My latest blog posts
+### 📚 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Install Docker and Docker Compose on Linux](https://dev.to/bybatkhuu/install-docker-and-docker-compose-on-linux-27m7)
 - [Install PM2 &lpar;Process Manager 2&rpar;](https://dev.to/bybatkhuu/install-pm2-process-manager-2-4pdn)
@@ -29,7 +29,7 @@
 - [Install NVIDIA CUDA on Linux](https://dev.to/bybatkhuu/install-nvidia-cuda-on-linux-1040)
 <!-- BLOG-POST-LIST:END -->
 
-## 📊 My github stats
+### 📊 My github stats
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bybatkhuu&show_icons=true" />
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bybatkhuu&layout=compact" />
