@@ -11,7 +11,7 @@
 - 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to code and explore/experiment with new technologies.
 
-## 📚 Latest blog posts
+## 📚 My blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Install Docker and Docker Compose on Linux](https://dev.to/bybatkhuu/install-docker-and-docker-compose-on-linux-27m7)
 - [Install PM2 &lpar;Process Manager 2&rpar;](https://dev.to/bybatkhuu/install-pm2-process-manager-2-4pdn)
@@ -31,7 +31,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
-
 
 <!--
 ### Hi there 👋
