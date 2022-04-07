@@ -8,16 +8,16 @@
 - 👨‍💻 Read more about my projects at [this page](https://bybatkhuu.notion.site/Portfolio-c95b5cb82605426499e9f251218745eb)
 - 📝 I regularly write articles on [https://dev.to/bybatkhuu](https://dev.to/bybatkhuu)
 - 📫 How to reach me: [batkhuu10@gmail.com](mailto:batkhuu10@gmail.com)
-- 2022 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to code and explore/experiment with new technologies.
 
-## 📚 Latest Blog Posts
+## 📚 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ## Connect with me -->
 
-## GitHub Stats
+## 📊 My github stats
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bybatkhuu&show_icons=true&theme=cobalt" />
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bybatkhuu&layout=compact" />
