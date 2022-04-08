@@ -11,7 +11,7 @@
 - 🥅 2022 Goals: Contribute to open-source projects
 - ⚡ Fun fact: I love to code and explore/experiment with new technologies.
 
-### 📚 My latest blog posts
+### 📚 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Install Docker and Docker Compose on Linux](https://dev.to/bybatkhuu/install-docker-and-docker-compose-on-linux-27m7)
 - [Install PM2 &lpar;Process Manager 2&rpar;](https://dev.to/bybatkhuu/install-pm2-process-manager-2-4pdn)
@@ -163,7 +163,7 @@
     </a>
 </p>
 
-### 📊 My github stats
+### 📊 Github stats
 
 <p>
     <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=bybatkhuu&show_icons=true" />
