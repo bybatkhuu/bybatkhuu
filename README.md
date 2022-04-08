@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **AI platform** and **API service** for **Anomaly Detection and Time Series Forecasting/Clustering**
 - 🌱 I'm currently learning **Kubernetes**, **Kubeflow**, **Terraform**, Multi-GPU computation, NVIDIA TensorRT/Triton, Go and other tools for MLOps
-- 💬 Ask me about **MLOps/DevOps**, **Docker**, AI/ML, **Web development**, my work experience, etc...
+- 💬 Ask me about **MLOps/DevOps**, **Docker**, **AI/ML**, **Web development**, my work experience, etc...
 - 👨‍💻 Read more about my projects at [**Portfolio page**](https://bybatkhuu.notion.site/Portfolio-c95b5cb82605426499e9f251218745eb)
 - 📝 I regularly write articles on: [**https://dev.to/bybatkhuu**](https://dev.to/bybatkhuu)
 - 📫 How to reach me: [**batkhuu10@gmail.com**](mailto:batkhuu10@gmail.com)
