@@ -12,6 +12,7 @@
 - ⚡ Fun fact: I love to code and explore new technologies.
 
 ### 📚 Latest blog posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Install Docker and Docker Compose on Linux](https://dev.to/bybatkhuu/install-docker-and-docker-compose-on-linux-27m7)
 - [Install PM2 &lpar;Process Manager 2&rpar;](https://dev.to/bybatkhuu/install-pm2-process-manager-2-4pdn)
