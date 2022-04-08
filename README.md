@@ -2,7 +2,7 @@
 
 ## I'm a Full-stack MLOps Engineer (ML/DL, DevOps, Web Developer)
 
-- 🔭 I'm currently working on AI platform and service for Anomaly Detection and Time Series Forecasting/Clustering
+- 🔭 I'm currently working on AI platform and API service for Anomaly Detection and Time Series Forecasting/Clustering
 - 🌱 I'm currently learning Kubernetes, Kubeflow, Terraform, Multi-GPU computation, NVIDIA TensorRT/Triton, Go and other tools for MLOps
 - 💬 Ask me about Docker/Kubernetes, Transfer Learning/LSTM/CNN, Javascript/Python/Java, Express/Flask/FastAPI, my work experience, my education, my skills
 - 👨‍💻 Read more about my projects at [this page](https://bybatkhuu.notion.site/Portfolio-c95b5cb82605426499e9f251218745eb)
@@ -34,6 +34,12 @@
     </a>
     <a href="https://medium.com/@bybatkhuu" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bybatkhuu" height="30" width="40" />
+    </a>
+    <a href="https://www.hackerrank.com/bybatkhuu" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bybatkhuu" height="30" width="40" />
+    </a>
+    <a href="https://kaggle.com/bybatkhuu" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bybatkhuu" height="30" width="40" />
     </a>
 </p>
 
