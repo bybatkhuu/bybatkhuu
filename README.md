@@ -18,6 +18,7 @@
 - [Install Miniconda &lpar;Conda&rpar; and Python](https://dev.to/bybatkhuu/install-miniconda-conda-and-python-50o6)
 - [Install NVM &lpar;Node Version Manager&rpar; and Node.js](https://dev.to/bybatkhuu/install-nvm-node-version-manager-and-nodejs-42h3)
 - [Install NVIDIA CUDA on Linux](https://dev.to/bybatkhuu/install-nvidia-cuda-on-linux-1040)
+- [Install NVIDIA GPU driver on Linux &lpar;Ubuntu/Debian&rpar;](https://dev.to/bybatkhuu/install-nvidia-gpu-driver-on-linux-ubuntudebian-4ei6)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔗 Connect with me
