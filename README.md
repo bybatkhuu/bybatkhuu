@@ -159,7 +159,6 @@
 ### 📊 My github stats
 
 <p>
-    <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=bybatkhuu&show_icons=true" />
-    <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bybatkhuu&layout=compact" />
-    <img align="enter" width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=bybatkhuu&" alt="bybatkhuu" />
+    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=bybatkhuu&show_icons=true" />
+    <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bybatkhuu&layout=compact" />
 </p>
