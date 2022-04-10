@@ -9,7 +9,7 @@
 - 📝 I regularly write articles on: [**https://dev.to/bybatkhuu**](https://dev.to/bybatkhuu)
 - 📫 How to reach me: [**batkhuu10@gmail.com**](mailto:batkhuu10@gmail.com)
 - 🥅 2022 Goals: Contribute to open-source projects
-- ⚡ Fun fact: I love to code and explore new technologies.
+- ⚡ Fun fact: I love coding and exploring new technologies.
 
 ### 📚 Latest blog posts
 
